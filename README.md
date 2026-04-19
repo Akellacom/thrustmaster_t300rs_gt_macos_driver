@@ -158,6 +158,9 @@ In Wine's "Game Controllers → Advanced" enable SDL. The wheel appears as **Thr
 
 ## Control app sliders
 
+<img width="1786" height="2068" alt="image" src="https://github.com/user-attachments/assets/a6afb062-5caa-449b-8106-c7c2ee007274" />
+
+
 Nine tuning knobs, plus range and gain, plus five named presets.
 
 ### Wheel
@@ -250,7 +253,5 @@ ThrustmasterWheel/
 ## Credits
 
 The USB protocol, HID descriptor, and FF packet formats were reverse-engineered from the Linux [hid-tmff2](https://github.com/Kimplul/hid-tmff2) kernel driver by Kimplul. Telemetry integration uses the [SCS Software Telemetry SDK](https://modding.scssoft.com/wiki/Documentation/Engine/SDK/Telemetry) v1.14.
-
-For the full design story and every technical hurdle along the way, see [`progress.md`](./progress.md).
 
 [Русский перевод README](./README_RU.md)
